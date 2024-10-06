@@ -47,7 +47,7 @@ Atividades desenvolvidas, foram agrupadas de acordo com as unidades do curso e d
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone https://github.com/MaercioMamedes/analise_gases_estufa
 2. **Crie um ambiente virutal e ative-o**:  
     É altamente recomendado criar um [ambiente virtual](https://www.alura.com.br/artigos/ambientes-virtuais-em-python) para gerenciar as dependências do projeto.
 3. ***Instale as dependências do Projeto***
@@ -55,6 +55,6 @@ Atividades desenvolvidas, foram agrupadas de acordo com as unidades do curso e d
     pip install -r requirements.txt
 4. ***Baixe a base de dados do SEE e mova para a pasta `dados`***:
     [Dados de emissão de Gases](https://cdn3.gnarususercontent.com.br/2927-pandas-selecao-agrupamento-dados/1-SEEG10_GERAL-BR_UF_2022.10.27-FINAL-SITE.xlsx)
-5. *** Abra o terminal da máquina e navegue até o diretório do projeto e execute o compando:***
+5. ***Abra o terminal da máquina e navegue até o diretório do projeto e execute o compando:***
     ```bash
     jupyter notebook
