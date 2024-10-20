@@ -47,7 +47,7 @@ Atividades desenvolvidas, foram agrupadas de acordo com as unidades do curso e d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/MaercioMamedes/analise_gases_estufa
+   git clone https://github.com/MaercioMamedes/analise_gases_estufa.git
 2. **Crie um ambiente virutal e ative-o**:  
     É altamente recomendado criar um [ambiente virtual](https://www.alura.com.br/artigos/ambientes-virtuais-em-python) para gerenciar as dependências do projeto.
 3. ***Instale as dependências do Projeto***
